@@ -2,5 +2,6 @@
 	"weekOneStartDate":"2018-06-13",
 	"showAds": false,
 	"showNotifications": true,
-	"needUpdate": true
+	"needUpdate": false
+	"neededVersion": "1.1"
 }
