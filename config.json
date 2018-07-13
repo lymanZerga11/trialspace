@@ -2,7 +2,7 @@
 	"weekOneStartDate":"2018-06-13",
 	"showAds": false,
 	"showNotifications": true,
-	"needUpdate": false
-	"neededVersion": "1.1"
+	"needUpdate": false,
+	"neededVersion": "1.1",
 	"needImageUpdate": true
 }
