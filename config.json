@@ -8,5 +8,18 @@
 	"adLocation1": "https://raw.githubusercontent.com/lymanZerga11/trialspace/master/image1.png",
 	"adLocation2": "https://raw.githubusercontent.com/lymanZerga11/trialspace/master/image2.png",
 	"adLocation3": "https://raw.githubusercontent.com/lymanZerga11/trialspace/master/image4.png",
-	"apiKeys": ["61954e45bba8b889258ce0f8ca0ca0f9"]
+	"apiKeys": [
+		{
+		"apiKey": "61954e45bba8b889258ce0f8ca0ca0f9",
+		"appId": "TEQD56YX99"
+		},
+		{
+		"apiKey": "61954e45bba8b889258ce0f8ca0ca0f9",
+		"appId": "TEQD56YX99"
+		},
+		{
+		"apiKey": "61954e45bba8b889258ce0f8ca0ca0f9",
+		"appId": "TEQD56YX99"
+		}
+		   ]
 }
