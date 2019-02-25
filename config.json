@@ -7,5 +7,6 @@
 	"needImageUpdate": true,
 	"adLocation1": "https://raw.githubusercontent.com/lymanZerga11/trialspace/master/image1.png",
 	"adLocation2": "https://raw.githubusercontent.com/lymanZerga11/trialspace/master/image2.png",
-	"adLocation3": "https://raw.githubusercontent.com/lymanZerga11/trialspace/master/image4.png"
+	"adLocation3": "https://raw.githubusercontent.com/lymanZerga11/trialspace/master/image4.png",
+	"apiKeys": ["61954e45bba8b889258ce0f8ca0ca0f9"]
 }
